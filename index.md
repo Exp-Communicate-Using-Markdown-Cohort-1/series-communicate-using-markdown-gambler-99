@@ -9,3 +9,8 @@
 - [ ] 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+ 
+`git status`
+`git add`
+`git commit`
